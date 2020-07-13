@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciopolato@gmail.com)](mailto:fabriciopolato@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541997421886&text=Olá!)](https://api.whatsapp.com/send?phone=5517996784887&text=Olá!)
 
-### Hi there! 
-
 - :man_technologist: **FullStack** web developer.
 - :computer: ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST, GraphQL
 - :books: Former automation and control engineer in love with technology
