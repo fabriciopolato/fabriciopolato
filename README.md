@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-## :man_technologist: Fabrcio Polato
+## :man_technologist: Fabricio Polato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/fabriciopolato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciopolato@gmail.com)](mailto:fabriciopolato@gmail.com)
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### Hi there! 
 
 - :man_technologist: **FullStack** web developer.
-- 🔭 Known technologies: ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST, GraphQL, Git e GitHub
-- :book: Former automation and control engineer and in love with technology
+- :computer: ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST, GraphQL
+- :books: Former automation and control engineer in love with technology
 - :lotus_position: meditation practitioner
+- :chocolate_bar: chocolate addicted
+
+=)
